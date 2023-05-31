@@ -1,6 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11249865&assignment_repo_type=AssignmentRepo)
 
-![Caratula AyC - TP#6](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD-grupo-7/assets/46485082/aee4284b-abcb-4599-b22b-af86867be3ca)
+![Caratula AyC - TP#7](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tarea7-grupo-7/assets/46485082/0f01bb07-a002-4ee0-8eb8-caca815d83f5)
 
 
 # $\textcolor{green}{TEAM:}$
