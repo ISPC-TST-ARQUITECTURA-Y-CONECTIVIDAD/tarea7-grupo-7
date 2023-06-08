@@ -13,20 +13,32 @@ entorno virtual (PC) y el Proteus.
 
 ## $\textcolor{orange}{Desarrollo:}$
 
-Para la implemetacion de la simulacion sobre Proteus es necesario 
+Para la implemetacion de la simulacion sobre Proteus es necesario agregar a Proteus las librerias correspondientes a los modulos Bluetooth:
+
+- BluetoothTEP.IDX
+- BluetoothTEP.LIB
+
+
+## $\textcolor{orange}{Componentes\ necesarias:}$
+
+Para la implementacion es necesario contar con los siguientes elementos:
+
+- Arduino UNO – 1
+- Modulo Bluetooth HC – 05 – 1
+- Smart Phone o Tablet – 1
+- Transistor NPN 2N2222 – 4
+- 12V Relay – 4
+- Resistencia de 1 KΩ – 4
+- Diodo de juntura PN 1N4007 – 4
+- Power Supply
+- Jumpers de conexion M/M 
+- Prototoboard
+- App para trasmitir voz por Bluetooth (AMR_Voice)
 
 
 
-## $\textcolor{orange}{Librerias\ necesarias:}$
-
-Para el correcto funcionamiento del controlador PID, se utilizaron las siguientes librerias:
-
-- [x] <Wire.h>
-- [x] <LiquidCrystal_I2C.h>
-- [x] <DHTesp.h>
 
 
 
 
 
-## $\textcolor{orange}{Codigo:}$
