@@ -29,6 +29,8 @@ Descripcion breve
 
 ## $\textcolor{orange}{Transistor\ NPN\ 2N2222:}$
 
+![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tarea7-grupo-7/assets/46485082/135ca007-cf66-474e-924a-1c78b1c9eb7e)
+
 Descripcion breve 
 
 ## $\textcolor{orange}{12V\ Relay:}$
@@ -40,15 +42,26 @@ Descripcion breve
 
 ## $\textcolor{orange}{Resistencia\ de\ 1KΩ :}$
 
+![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tarea7-grupo-7/assets/46485082/f1afab3d-0278-4b6e-b240-628442fb4c8f)
+
 Descripcion breve
+
+
+
 
 ## $\textcolor{orange}{Diodo\ de\ juntura\ PN\ 1N4007:}$
 
 Descripcion breve
 
+![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tarea7-grupo-7/assets/46485082/b0e74eae-a8e8-4811-92f1-c7cdd95cdb02)
+
 ## $\textcolor{orange}{Varios:}$
 
 Descripcion breve
+
+![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tarea7-grupo-7/assets/46485082/b9f00825-6bd7-4bc5-9464-adaaae29d5b2)
+![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tarea7-grupo-7/assets/46485082/0955a03a-db81-4c7f-8938-6a222c2aed72)
+![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tarea7-grupo-7/assets/46485082/cb4d5bb0-4dbb-4fb3-ac07-5fa512767838)
 
 
 
