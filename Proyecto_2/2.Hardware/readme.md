@@ -42,7 +42,8 @@ Descripcion breve
 
 ## $\textcolor{orange}{Resistencia\ de\ 1KΩ :}$
 
-![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tarea7-grupo-7/assets/46485082/f1afab3d-0278-4b6e-b240-628442fb4c8f)
+![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tarea7-grupo-7/assets/46485082/f1cd4a8f-1e12-453a-915f-1ddf6f253589)
+
 
 Descripcion breve
 
