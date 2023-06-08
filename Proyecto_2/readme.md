@@ -13,7 +13,7 @@ entorno virtual (PC) y el Proteus.
 
 ## $\textcolor{orange}{Desarrollo:}$
 
-Para la implemetacion de la simulacion sobre Proteus es necesario agregar a Proteus las librerias correspondientes a los modulos Bluetooth:
+Para la implemetacion de la simulacion sobre Proteus es necesario agregar las librerias correspondientes a los modulos Bluetooth:
 
 - BluetoothTEP.IDX
 - BluetoothTEP.LIB
