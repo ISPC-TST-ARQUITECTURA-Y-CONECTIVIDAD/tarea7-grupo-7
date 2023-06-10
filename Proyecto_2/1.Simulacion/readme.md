@@ -7,7 +7,7 @@
   ##
    ## $\textcolor{orange}{Video\ de\ la\ simulacion:}$
    
-   aqui va el video
+   El enlace al video de demostracion es el siguiente: https://youtu.be/1J6dRzqJvVA
    
    ## $\textcolor{orange}{Archivos\ de\ la\ simulacion:}$
    
