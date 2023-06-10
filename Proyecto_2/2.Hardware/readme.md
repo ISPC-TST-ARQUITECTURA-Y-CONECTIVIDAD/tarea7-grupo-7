@@ -124,6 +124,14 @@ El protoboard y los jumpers son ampliamente utilizados por estudiantes, aficiona
 
 ![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tarea7-grupo-7/assets/46485082/0955a03a-db81-4c7f-8938-6a222c2aed72)
 
+
+Android Cumple Robots: Reconocimiento de voz
+Usos androide mobiles reconocimiento de voz interno para pasar comandos de voz a su robot
+Pares con módulos en serie Bluetooth y envía en la voz reconocida como una cadena
+por ejemplo, si usted dice hola el teléfono Android volverá una picadura * Hola # a su módulo Bluetooth * y # indican el inicio y bits de parada
+Se puede utilizar con cualquier microcontrolador que puede manejar cadenas
+Ejemplos Plataformas: Arduino, ARM, PICAXE, MSP430, 8051 basados ​​y muchos otros procesadores y controladores
+
 ![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tarea7-grupo-7/assets/46485082/cb4d5bb0-4dbb-4fb3-ac07-5fa512767838)
 
 
